@@ -1,0 +1,20 @@
+{
+  "generator": "Built-in image_gen",
+  "reference": "public/sticker_images_v2/happy.png",
+  "source": ".taste-skill/connection-feature/mascot-source.png",
+  "static": "public/sticker_images_v2/connection-pair.png",
+  "animated": "public/gif_sticker_emote/connection-pair.gif",
+  "frames": 6,
+  "frameSize": 384,
+  "loop": 0,
+  "delaysMs": [
+    240,
+    130,
+    160,
+    180,
+    150,
+    240
+  ],
+  "prompt": "Six equal-cell transparent sprite sheet, two Flamee orange bird mascots leaning affectionately together and sharing a coral heart. Same character design as happy.png. Gentle blink, wing lift, heart pulse and return; consistent camera, scale and baseline. No text or background.",
+  "processing": "Extract six generated sprite cells and encode transparent PNG/GIF with sharp; no invented photographic content."
+}

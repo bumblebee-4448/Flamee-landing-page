@@ -1,0 +1,15 @@
+{
+  "generator": "Built-in image_gen",
+  "output": "src/assets/autumn-ivory-paper.png",
+  "prompt": "Use case: website background asset, NOT a website mockup. Generate one full-bleed wide landscape 16:9 raster background, fine art photorealistic surface and natural light. An uninterrupted warm IVORY fine smooth art paper material filling the ENTIRE frame, seen flat, no visible paper boundaries. Base color luminous neutral ivory #F4F0E8, highlights #FCF8EF, neutral warm pale shadows #E8E0D4. Ultra subtle fine paper fibers visible only on close inspection, clean fresh modern premium paper, NOT handmade rough parchment. Quiet autumn late afternoon. Very soft low-angle honey sunlight diagonally illuminating the surface, gently diffused not streaky, amber used only as a small warm accent around far corners; do NOT cast an orange wash over the whole scene. Mostly subtle blurred MAPLE LEAF SHADOWS along the extreme upper-right corner and right edge; just TWO OR THREE tiny indistinct amber maple leaf silhouettes barely entering the outer top-right 8 percent of the frame, and a very faint partial leaf shadow in upper-left outer corner. Shadows wide soft low contrast, no dark hard branch lines, no dense foliage, no tree bokeh. Preserve uninterrupted clean bright paper and very low contrast across center 80% and ALL left-middle area for large dark text: x 0%-62%, y 15%-85% must have NO leaves, NO leaf shadow, NO texture clusters. The bottom 25% fades naturally toward neutral pale ivory #F2EDE6 with barely any lighting variation, allowing seamless blend into a webpage. Leaves sparse and entirely peripheral. Mood calm warm refined quiet autumn, not wedding invitation or greeting card. No typography, no logos, no book, no phones, no UI, no people. No paper edges, sheet framing, curled corners, torn edges, folds, creases, stains, dirt, grain overlay, speckles, scratches, ruled lines, dark vignette, embossing, hard light shafts, heavy orange, dense orange leaves. Full continuous background, paper is the material not an object sitting on another surface.",
+  "integration": {
+    "desktopOpacity": 0.95,
+    "mobileOpacity": 0.72,
+    "mobilePosition": "65% top",
+    "movingLeaves": {
+      "desktop": 6,
+      "mobile": 2
+    },
+    "textProtection": "Horizontal masks keep moving leaves out of the main text region; mobile leaves restricted to outer edges."
+  }
+}

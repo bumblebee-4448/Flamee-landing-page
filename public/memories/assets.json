@@ -1,0 +1,56 @@
+[
+  {
+    "id": "first-date",
+    "path": "public/memories/first-date.webp",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-3179c426-27e0-4388-975f-b7133a104df0.png",
+    "generator": "Built-in image_gen",
+    "width": 1200,
+    "height": 800,
+    "illustrative": true
+  },
+  {
+    "id": "first-christmas",
+    "path": "public/memories/first-christmas.webp",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-fbe870a4-4d97-4182-8341-6c3eb3b34a9b.png",
+    "generator": "Built-in image_gen",
+    "width": 1200,
+    "height": 800,
+    "illustrative": true
+  },
+  {
+    "id": "flowers",
+    "path": "public/memories/flowers.webp",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-ced5625e-1de5-4e51-934c-40569256e62e.png",
+    "generator": "Built-in image_gen",
+    "width": 1200,
+    "height": 800,
+    "illustrative": true
+  },
+  {
+    "id": "seaside",
+    "path": "public/memories/seaside.webp",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-df506b83-c580-4c13-9aeb-844a291ad25a.png",
+    "generator": "Built-in image_gen",
+    "width": 1200,
+    "height": 800,
+    "illustrative": true
+  },
+  {
+    "id": "dinner",
+    "path": "public/memories/dinner.webp",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-30996efa-8f0e-4203-8428-b1a9a930ab89.png",
+    "generator": "Built-in image_gen",
+    "width": 1200,
+    "height": 800,
+    "illustrative": true
+  },
+  {
+    "id": "still-us",
+    "path": "public/memories/still-us.webp",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-9c762296-565d-4bdd-adff-cbbf3f91faa3.png",
+    "generator": "Built-in image_gen",
+    "width": 1200,
+    "height": 800,
+    "illustrative": true
+  }
+]

@@ -1,0 +1,7 @@
+# Interactive shared-memory timeline
+
+Approved in conversation: retain the chosen warm-paper editorial timeline mockup and implement a real horizontally draggable photo journey. Six illustrative milestones spanning 2024–2026, displayed as three staggered moments on desktop and one main moment plus a glimpse on mobile. The curve has date markers and a draggable progress control. Drag follows the hand immediately; release decelerates and settles on the closest milestone. Clicking a date, arrows or a year filter navigates the same sequence. Keyboard range arrows/Home/End work. Opening an image shows the full story in an accessible dialog, preserving timeline position and returning focus on close.
+
+Place the section after Tiny Mission and before membership, with anchor `#ky-niem` and the existing common frame. Normal page scrolling must remain native/Lenis-driven; do not hijack the vertical wheel or prevent phone vertical scrolling. Reduced motion retains all controls without animated travel. All images/data are clearly labelled illustrative, no backend or user-data storage. Existing sections, anchors and member dialogs survive.
+
+One progress value controls track transform, curve handle, displayed date and selected state. Assets are six newly generated standalone photos using the selected mockup's fictional couple/style, saved locally. Desktop/mobile layouts are separate compositions. Keep all content readable when scripts/animations fail.

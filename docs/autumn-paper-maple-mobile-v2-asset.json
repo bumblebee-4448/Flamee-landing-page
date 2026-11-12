@@ -1,0 +1,6 @@
+{
+  "generator": "Built-in image_gen edit",
+  "reference": "src/assets/autumn-paper-maple-v2.png",
+  "output": "src/assets/autumn-paper-maple-mobile-v2.png",
+  "prompt": "Create a PORTRAIT 9:16 mobile website background asset matching the provided landscape autumn paper background. Same clean visible warm ivory fine art PAPER texture filling whole canvas, tiny pressed fibers and very subtle grain visible at normal viewing size, not old parchment. Preserve identifiable small golden amber MAPLE LEAVES and a slender branch confined to the TOP outer corners only, especially upper-right. Important MOBILE composition: leaves occupy only top 8 percent and outer 5 percent of sides; NOT oversized leaves hanging over text. The entire area below top 12 percent is luminous warm ivory textured paper with very soft honey sunlight and faint peripheral leaf shadow. Center left and center fully clear for dark typography. Bottom 20 percent tends to neutral warm cream #F2EDE6 seamlessly. Full-bleed continuous material, no paper object edges, no folds, stains, curls, borders, text, book, logo, UI. Realistic natural afternoon warmth. The original atmosphere and paper material should remain recognizable, leaves must be visible rather than disappearing, but much smaller than in landscape so phone text stays unobscured."
+}

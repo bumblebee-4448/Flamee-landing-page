@@ -1,0 +1,31 @@
+# Flamee v2 — Built-in imagegen prompts
+
+## Hero
+
+Use case: ui-mockup. Create one high-fidelity desktop WEBSITE HERO design proposal for Flamee, a Vietnamese mobile app for couples. Fresh art direction: contemporary human-first lifestyle SaaS marketing, small everyday moments become shared memories. This is an editorial digital landing page, airy and polished, not a literal paper journal or invitation, not a screenshot gallery. Show why couples would care, with the product's actual capabilities described plainly.
+Canvas approximately 1536x1024 landscape, crisp straight-on website screenshot, no browser chrome, no physical screen mockup.
+Palette: flat stone cream #EEECEA, warm white #FFFCF8, dark espresso #302924, muted brown #70655D, coral #FF7158 accent only on the primary action. No background gradients, no glow, no shadows, no paper texture, no lines, no ornaments. Soft naturally warm colors inside photography.
+Typography throughout: Public Sans / contemporary humanist sans, regular and semibold. NO condensed font, NO all-uppercase headline, NO black extra-bold typography, NO serif. Headline around 76px, comfortable line height, one weight and one dark brown color. Strong but relaxed editorial hierarchy. Body 19px.
+Navigation at 32px equal outer margins: 'flamee' wordmark left, plain links 'Kỷ niệm', 'Kết nối', 'Câu hỏi' toward center/right, a simple text action 'Khám phá app' at far right. Plain horizontal navigation on page ground.
+Hero composition is a split stage: left approximately 46%, right approximately 54%, tight equal outside margins. Left is warm white, flat, no card outlines; right is a large full-height lifestyle photograph with clean square corners. Left content starts roughly 220px from canvas top, aligned LEFT at 64px. Headline exactly two lines, sentence case:
+'Gần nhau'
+'từ điều nhỏ.'
+Below at 32px distance, exact supporting copy in 3 comfortable lines:
+'Flamee là ứng dụng dành cho cặp đôi,'
+'giúp kết nối với người yêu và lưu lại'
+'những kỷ niệm của hai bạn.'
+One coral flat rectangular button with dark brown text: 'Khám phá Flamee' and a small simple right arrow. 52px tall. Below it one simple secondary plain text link 'Xem cách kết nối'. No badges, no store download buttons, no fake ratings, no social proof.
+Right lifestyle photograph: candid real-looking Vietnamese couple in their mid 20s, modest natural clothing, making breakfast in a sunlit small contemporary apartment kitchen, sharing a relaxed smile, one handing the other a ceramic coffee mug while preparing toast. Editorial 35mm photography, honest everyday intimacy, natural skin texture, gentle daylight, little sense of posing. The framing shows both people and the breakfast counter, generous visual presence, not a closeup headshot. No visible phone, app interface, hearts, decorative shapes, or text over the photo. This couple is a conceptual lifestyle visual, not a customer endorsement.
+Lower visible strip below hero around bottom 180px: cream ground, large left-aligned section heading 'Ngày thường, thành kỷ niệm.' on left, short paragraph on right 'Một bữa sáng cùng nhau. Một buổi hẹn bất chợt. Những điều nhỏ cũng đáng để giữ lại.' This hints at the page continuing with varied editorial composition.
+This image must contain NO app screenshots, NO giant smartphone, NO calendar as the hero. Product UI will be shown selectively in a later section. Let the human photo carry 50% of the hero and the text sell the mobile app clearly. Premium digital consumer product site, not a wedding invitation or romantic card. No decorative labels over the headline.
+
+## Memories section
+
+Use case: ui-mockup. ONE high-fidelity desktop WEBSITE SECTION mockup, 1536x960 landscape, for Flamee Vietnamese couples app, continuing the supplied website design reference. Editorial human-first consumer SaaS style. This mockup is a feature section BELOW the hero, not a second hero and not a whole page.
+Input 1: visual style reference only, keep Public Sans typography, cream/espresso/coral palette. Input 2: existing app calendar screenshot, supporting illustrative product evidence only, NEVER enlarge to dominate.
+Palette: #FFFCF8 warm white, #EEECEA light stone, #302924 dark brown text, #70655D secondary, coral #FF7158 just the action. Flat backgrounds, no shadows, no glows, no gradients outside original screenshot.
+Composition: a full-width warm white section with 48px equal margins, top row heading at left, short intro at right. Main headline exactly 'Kỷ niệm có chỗ để về.' in Public Sans semibold, sentence case, 56px, dark brown. Right intro in 18px: 'Lưu ảnh và những dòng kể lại, rồi tìm về ngày ấy trên dòng thời gian hoặc lịch kỷ niệm.'
+Below at about y200: LEFT 62% width is a photographic editorial composition, two adjacent image panels of different widths but same height 500px, square corners, no rotation, no card chrome. Large panel candid Vietnamese young couple from the hero strolling hand in hand along the sea at late afternoon, warm natural colors, authentic not posed. Narrow panel a tactile closeup of two coffee mugs and croissants on a cafe table, two hands reaching toward the table, crop is a memory from daily life, no text written in photos. These are conceptual lifestyle images not endorsements.
+RIGHT 34% width: clear text at top, heading 'Nhớ lại, theo cách của bạn.' 30px, paragraph 18px 'Thêm một tấm ảnh, ghi lại câu chuyện và xem lại những ngày đáng nhớ.' Then beneath paragraph a single SMALL real calendar screenshot inset, about 210px wide and 290px tall, cropped from source to show month October calendar and a few thumbnail photos, no OS status bar, no big phone body, no floating badges. Screenshot represents at most 12% of total canvas area. Keep it clearly recognizable as the Flamee app, preserve content faithfully. Small readable caption under screenshot 'Lịch kỷ niệm trên Flamee'. One plain coral text link near bottom 'Khám phá giao diện →'.
+No navigation in this section. No app store badges, invented statistics, user quotes, icon cards, hearts, blobs, ornamental shapes, paper diary frame, or huge calendar. A quiet credible product explanation set among actual-life storytelling photographs. The human experience is visually primary; app is supporting proof.
+

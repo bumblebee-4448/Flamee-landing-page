@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01-film",
+    "path": "public/mockups/memories/01-film.png",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-9c1c3319-589a-467a-bacf-377f5ba9d542.png",
+    "width": 1536,
+    "height": 1024,
+    "generator": "Built-in image_gen"
+  },
+  {
+    "id": "02-photo-table",
+    "path": "public/mockups/memories/02-photo-table.png",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-e3c42e06-6bbb-453d-aa73-b56000910983.png",
+    "width": 1536,
+    "height": 1024,
+    "generator": "Built-in image_gen"
+  },
+  {
+    "id": "03-timeline",
+    "path": "public/mockups/memories/03-timeline.png",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-92686613-d524-483f-90b2-e6bed3f28156.png",
+    "width": 1536,
+    "height": 1024,
+    "generator": "Built-in image_gen"
+  },
+  {
+    "id": "04-calendar",
+    "path": "public/mockups/memories/04-calendar.png",
+    "source": "C:/Users/Huy/AppData/Roaming/orca/codex-accounts/81a38fd2-3ea3-43bb-a26d-622058980316/home/generated_images/01a1ce68-57e4-70d3-9d2c-8b861bc96e84/exec-4b24f088-626d-4c9d-a363-a29d5d5f91eb.png",
+    "width": 1536,
+    "height": 1024,
+    "generator": "Built-in image_gen"
+  }
+]

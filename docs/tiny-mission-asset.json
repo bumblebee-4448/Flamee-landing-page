@@ -1,0 +1,22 @@
+{
+  "generator": "Built-in image_gen",
+  "reference": "public/sticker_images_v2/happy.png",
+  "source": ".taste-skill/tiny-mission/mascot-source.png",
+  "static": "public/sticker_images_v2/tiny-mission.png",
+  "animated": "public/gif_sticker_emote/tiny-mission.gif",
+  "frames": 6,
+  "frameSize": 384,
+  "loop": 0,
+  "delaysMs": [
+    240,
+    130,
+    160,
+    180,
+    150,
+    240
+  ],
+  "stillFraction": 0.8567708333333334,
+  "animatedFraction": 0.859375,
+  "promptFile": "docs/tiny-mission-prompt.txt",
+  "encoding": "Generated sprite cells extracted and encoded with sharp into transparent PNG and looping GIF."
+}

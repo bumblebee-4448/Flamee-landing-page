@@ -1,0 +1,20 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
+import { imagetools } from 'vite-imagetools'
+
+export default defineConfig({
+  plugins: [react(), tailwindcss(), imagetools()],
+  build: {
+    rolldownOptions: {
+      output: {
+        codeSplitting: {
+          groups: [
+            { name: 'react', test: /node_modules[\\/](react|react-dom|scheduler)[\\/]/ },
+            { name: 'scroll', test: /node_modules[\\/](gsap|@gsap|lenis)[\\/]/ },
+          ],
+        },
+      },
+    },
+  },
+})

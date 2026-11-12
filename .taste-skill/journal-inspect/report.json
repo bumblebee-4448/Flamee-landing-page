@@ -1,0 +1,2403 @@
+{
+ "url": "http://127.0.0.1:4174",
+ "at": "2026-11-04T04:44:16.300Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.57,
+    0.68,
+    0.61,
+    0.33,
+    0.49,
+    0.54,
+    0.52
+   ],
+   "motion": {
+    "elements": 30,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 29,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5622,
+     "screens": 6.2,
+     "words": 546,
+     "img": 28,
+     "video": 0,
+     "canvas": 0,
+     "svg": 31,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 22,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "flamee-journal-DNPXXrYz.webp",
+      "d%C3%B2ng%20th%E1%BB%9Di%20gian%20callendar.jpg",
+      "d%C3%B2ng%20th%E1%BB%9Di%20gian.jpg",
+      "happy.png",
+      "happy.png",
+      "tired.png",
+      "energetic.png",
+      "sad.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Một bên bạn. Một bên mình.",
+     "words": 6,
+     "chars": 26,
+     "lines": 2,
+     "size": 106.6,
+     "vw": 7.4,
+     "font": "Cormorant Garamond",
+     "weight": 300,
+     "tracking": -0.045,
+     "leading": 1.06,
+     "upper": false,
+     "italic": true,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.36,
+     "top": 246,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Một bên bạn. Một bên mình.",
+     "words": 6,
+     "lines": 2,
+     "size": 106.6,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Một bên bạn. Một bên mình.",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 106.6,
+      "vw": 7.4,
+      "font": "Cormorant Garamond",
+      "weight": 300,
+      "tracking": -0.045,
+      "leading": 1.06,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 246,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Ngày nhỏ. Nhớ thật lâu.",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 988,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ngày nào cũng có nhau.",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 2050,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Một lời mời. Hai người.",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.17,
+      "top": 2508,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gói thành viên",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 3350,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "0đ",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 3702,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "49.000đ",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 3702,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Bạn hỏi, Flamee trả lời.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 4228,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Câu chuyện còn dài.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.3,
+      "top": 5095,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Be Vietnam Pro",
+       "share": 0.99,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      17,
+      20,
+      24,
+      36,
+      48,
+      56,
+      107
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Be Vietnam Pro",
+      "size": 16,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.3
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 106.6,
+      "vw": 7.4,
+      "font": "Cormorant Garamond",
+      "text": "Một bên bạn."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.08,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Bắt đầu từ những điều nhỏ.",
+      "above": "0đ",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 3641
+     },
+     {
+      "text": "Thêm không gian cho chuyện hai mình.",
+      "above": "49.000đ",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 3641
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f2ede6",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 0.32,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eeecea",
+       "top": 1143,
+       "hsl": {
+        "h": 30,
+        "s": 0.11,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#302924",
+       "share": 0.8
+      },
+      {
+       "color": "#70655d",
+       "share": 0.17
+      },
+      {
+       "color": "#fffcf8",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#302924",
+      "hsl": {
+       "h": 25,
+       "s": 0.14,
+       "l": 0.16
+      },
+      "fg": "#fffcf8"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 12,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Đến nội dung",
+      "Gói thành viên",
+      "Khám phá Flamee"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 1,
+     "shadowSamples": [],
+     "gradients": 9,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.absolute.inset-0 → radial-gradient(circle at 20% 15%, color(srgb 1 0.882353 0.72549 / 0.157059), rgba(0, 0, 0, 0) 70%)",
+      "div.absolute.inset-0 → radial-gradient(circle at 80% 10%, color(srgb 1 0.882353 0.72549 / 0.122157), rgba(0, 0, 0, 0) 75%)",
+      "div.pointer-events-none.absolute → linear-gradient(color(srgb 1 0.882353 0.72549 / 0.244314) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.pointer-events-none.absolute → linear-gradient(color(srgb 1 0.882353 0.72549 / 0.244314) 0%, rgba(0, 0, 0, 0) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.footer-bottom 1200px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 10,
+     "boxRadius": 28,
+     "squareMedia": 3,
+     "roundedMedia": 1,
+     "mediaRadius": 28,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.43
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "be vietnam pro"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5622,
+    "margins": {
+     "left": 72,
+     "right": 120
+    },
+    "sections": [
+     {
+      "sel": "div.pointer-events-none.absolute",
+      "tag": "div",
+      "top": 0,
+      "height": 1080,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 84,
+      "height": 816,
+      "words": 22,
+      "media": 1,
+      "middle": 21,
+      "heading": {
+       "text": "Một bên bạn.",
+       "size": 107,
+       "tag": "h1"
+      },
+      "left": 72,
+      "right": 4,
+      "textLeft": 72,
+      "textRight": 882,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#ky-niem.features-section.shell",
+      "tag": "section",
+      "top": 900,
+      "height": 1090,
+      "words": 115,
+      "media": 3,
+      "middle": 110,
+      "heading": {
+       "text": "Ngày nhỏ.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 120,
+      "textLeft": 120,
+      "textRight": 120,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mood-strip.section-space",
+      "tag": "section",
+      "top": 1990,
+      "height": 430,
+      "words": 39,
+      "media": 18,
+      "middle": 1914,
+      "heading": {
+       "text": "Ngày nào cũng có nhau.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 0,
+      "textLeft": 74,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#ket-noi.connection-section.shell",
+      "tag": "section",
+      "top": 2420,
+      "height": 842,
+      "words": 97,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Một lời mời.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 120,
+      "right": 120,
+      "textLeft": 120,
+      "textRight": 120,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#goi-thanh-vien.membership-section.shell",
+      "tag": "section",
+      "top": 3262,
+      "height": 934,
+      "words": 116,
+      "media": 0,
+      "middle": 106,
+      "heading": {
+       "text": "49.000",
+       "size": 56,
+       "tag": "p"
+      },
+      "left": 120,
+      "right": 124,
+      "textLeft": 120,
+      "textRight": 144,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.closing.shell",
+      "tag": "section",
+      "top": 4958,
+      "height": 489,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Câu chuyện còn dài.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 503,
+      "right": 503,
+      "textLeft": 503,
+      "textRight": 503,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer.shell",
+      "tag": "footer",
+      "top": 5447,
+      "height": 175,
+      "words": 23,
+      "media": 0,
+      "middle": 278,
+      "heading": null,
+      "left": 120,
+      "right": 120,
+      "textLeft": 135,
+      "textRight": 120,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Một bên bạn. Một bên mình.",
+      "size": 107,
+      "top": 246,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 120,
+      "n": 7
+     },
+     {
+      "x": 335,
+      "n": 5
+     },
+     {
+      "x": 853,
+      "n": 3
+     },
+     {
+      "x": 72,
+      "n": 2
+     },
+     {
+      "x": 153,
+      "n": 2
+     },
+     {
+      "x": 216,
+      "n": 2
+     },
+     {
+      "x": 310,
+      "n": 1
+     },
+     {
+      "x": 773,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.1,
+    "voidBox": {
+     "x": 0,
+     "y": 660,
+     "w": 540,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.4,
+    0.79,
+    0.49,
+    0.73,
+    0.51,
+    0.53
+   ],
+   "motion": {
+    "elements": 30,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 29,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5486,
+     "screens": 5.4,
+     "words": 537,
+     "img": 28,
+     "video": 0,
+     "canvas": 0,
+     "svg": 31,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 22,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "flamee-journal-cCCTlmlO.webp",
+      "d%C3%B2ng%20th%E1%BB%9Di%20gian%20callendar.jpg",
+      "d%C3%B2ng%20th%E1%BB%9Di%20gian.jpg",
+      "happy.png",
+      "happy.png",
+      "tired.png",
+      "energetic.png",
+      "sad.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Một bên bạn. Một bên mình.",
+     "words": 6,
+     "chars": 26,
+     "lines": 2,
+     "size": 60,
+     "vw": 7.8,
+     "font": "Cormorant Garamond",
+     "weight": 300,
+     "tracking": -0.045,
+     "leading": 1.06,
+     "upper": false,
+     "italic": true,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.38,
+     "top": 230,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Một bên bạn. Một bên mình.",
+     "words": 6,
+     "lines": 2,
+     "size": 60,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Một bên bạn. Một bên mình.",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Cormorant Garamond",
+      "weight": 300,
+      "tracking": -0.045,
+      "leading": 1.06,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 230,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Ngày nhỏ. Nhớ thật lâu.",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 906,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ngày nào cũng có nhau.",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1882,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Một lời mời. Hai người.",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 2347,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gói thành viên",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 3148,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "0đ",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 3507,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "49.000đ",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 3536,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Bạn hỏi, Flamee trả lời.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4121,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Câu chuyện còn dài.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.42,
+      "top": 4973,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Be Vietnam Pro",
+       "share": 0.99,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36,
+      40,
+      60
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Be Vietnam Pro",
+      "size": 16,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.3
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 60,
+      "vw": 7.8,
+      "font": "Cormorant Garamond",
+      "text": "Một bên bạn."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.08,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Bắt đầu từ những điều nhỏ.",
+      "above": "0đ",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 3447
+     },
+     {
+      "text": "Thêm không gian cho chuyện hai mình.",
+      "above": "49.000đ",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 3447
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f2ede6",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 0.32,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eeecea",
+       "top": 1033,
+       "hsl": {
+        "h": 30,
+        "s": 0.11,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#302924",
+       "share": 0.8
+      },
+      {
+       "color": "#70655d",
+       "share": 0.17
+      },
+      {
+       "color": "#fffcf8",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#302924",
+      "hsl": {
+       "h": 25,
+       "s": 0.14,
+       "l": 0.16
+      },
+      "fg": "#fffcf8"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 11,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Đến nội dung",
+      "Gói thành viên",
+      "Khám phá Flamee"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 1,
+     "shadowSamples": [],
+     "gradients": 10,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.absolute.inset-0 → radial-gradient(circle at 20% 15%, color(srgb 1 0.882353 0.72549 / 0.157059), rgba(0, 0, 0, 0) 70%)",
+      "div.absolute.inset-0 → radial-gradient(circle at 80% 10%, color(srgb 1 0.882353 0.72549 / 0.122157), rgba(0, 0, 0, 0) 75%)",
+      "div.pointer-events-none.absolute → linear-gradient(color(srgb 1 0.882353 0.72549 / 0.244314) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.pointer-events-none.absolute → linear-gradient(color(srgb 1 0.882353 0.72549 / 0.244314) 0%, rgba(0, 0, 0, 0) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.footer-bottom 720px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 10,
+     "boxRadius": 28,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.19
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "be vietnam pro"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5486,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "div.pointer-events-none.absolute",
+      "tag": "div",
+      "top": 0,
+      "height": 1100,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 84,
+      "height": 720,
+      "words": 22,
+      "media": 1,
+      "middle": 3,
+      "heading": {
+       "text": "Một bên bạn.",
+       "size": 60,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 16,
+      "textLeft": 24,
+      "textRight": 471,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#ky-niem.features-section.shell",
+      "tag": "section",
+      "top": 804,
+      "height": 1018,
+      "words": 115,
+      "media": 3,
+      "middle": 78,
+      "heading": {
+       "text": "Ngày nhỏ.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 45,
+      "textLeft": 24,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mood-strip.section-space",
+      "tag": "section",
+      "top": 1822,
+      "height": 423,
+      "words": 28,
+      "media": 18,
+      "middle": 2586,
+      "heading": {
+       "text": "Ngày nào cũng có nhau.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 0,
+      "textLeft": 24,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#ket-noi.connection-section.shell",
+      "tag": "section",
+      "top": 2245,
+      "height": 815,
+      "words": 94,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Một lời mời.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#goi-thanh-vien.membership-section.shell",
+      "tag": "section",
+      "top": 3060,
+      "height": 1028,
+      "words": 116,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "49.000",
+       "size": 40,
+       "tag": "p"
+      },
+      "left": 24,
+      "right": 28,
+      "textLeft": 24,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cau-hoi.faq-section.shell",
+      "tag": "section",
+      "top": 4089,
+      "height": 748,
+      "words": 159,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bạn hỏi, Flamee trả lời.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 201,
+      "textLeft": 24,
+      "textRight": 201,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.closing.shell",
+      "tag": "section",
+      "top": 4836,
+      "height": 475,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Câu chuyện còn dài.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 221,
+      "right": 214,
+      "textLeft": 221,
+      "textRight": 221,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer.shell",
+      "tag": "footer",
+      "top": 5311,
+      "height": 175,
+      "words": 23,
+      "media": 0,
+      "middle": 38,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 39,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Một bên bạn. Một bên mình.",
+      "size": 60,
+      "top": 230,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 10
+     },
+     {
+      "x": 47,
+      "n": 6
+     },
+     {
+      "x": 433,
+      "n": 4
+     },
+     {
+      "x": 120,
+      "n": 2
+     },
+     {
+      "x": 65,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.6,
+    0.85,
+    0.87,
+    0.61,
+    0.53,
+    0.91,
+    0.59,
+    0.68
+   ],
+   "motion": {
+    "elements": 30,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 29,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6725,
+     "screens": 8,
+     "words": 537,
+     "img": 28,
+     "video": 0,
+     "canvas": 0,
+     "svg": 31,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "flamee-journal-CJJgHrnb.webp",
+      "d%C3%B2ng%20th%E1%BB%9Di%20gian%20callendar.jpg",
+      "d%C3%B2ng%20th%E1%BB%9Di%20gian.jpg",
+      "happy.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Một bên bạn. Một bên mình.",
+     "words": 6,
+     "chars": 26,
+     "lines": 2,
+     "size": 56,
+     "vw": 14.4,
+     "font": "Cormorant Garamond",
+     "weight": 300,
+     "tracking": -0.045,
+     "leading": 1.04,
+     "upper": false,
+     "italic": true,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 108,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Một bên bạn. Một bên mình.",
+     "words": 6,
+     "lines": 2,
+     "size": 56,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Một bên bạn. Một bên mình.",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 56,
+      "vw": 14.4,
+      "font": "Cormorant Garamond",
+      "weight": 300,
+      "tracking": -0.045,
+      "leading": 1.04,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 108,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Ngày nhỏ. Nhớ thật lâu.",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 788,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lưu lại chuyện hai mình.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 1070,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Cả những ngày khó nói.",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 1788,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Ngày nào cũng có nhau.",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 2471,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Một lời mời. Hai người.",
+      "words": 5,
+      "chars": 23,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 2910,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gói thành viên",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 3938,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cơ bản",
+      "words": 2,
+      "chars": 6,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4263,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "0đ",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4369,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Flamee Plus",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4782,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "49.000đ",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Be Vietnam Pro",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4889,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Bạn hỏi, Flamee trả lời.",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5333,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Câu chuyện còn dài.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Be Vietnam Pro",
+      "weight": 600,
+      "tracking": -0.055,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 6184,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Be Vietnam Pro",
+       "share": 0.99,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      17,
+      20,
+      24,
+      30,
+      34,
+      36,
+      44,
+      56
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Be Vietnam Pro",
+      "size": 16,
+      "leading": 1.8,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.3
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 56,
+      "vw": 14.4,
+      "font": "Cormorant Garamond",
+      "text": "Một bên bạn."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.08,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f2ede6",
+     "bodyBgHsl": {
+      "h": 35,
+      "s": 0.32,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eeecea",
+       "top": 1009,
+       "hsl": {
+        "h": 30,
+        "s": 0.11,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#fffcf8",
+       "top": 1226,
+       "hsl": {
+        "h": 34,
+        "s": 1,
+        "l": 0.99
+       }
+      },
+      {
+       "color": "#f8e5d3",
+       "top": 4753,
+       "hsl": {
+        "h": 29,
+        "s": 0.73,
+        "l": 0.9
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#302924",
+       "share": 0.8
+      },
+      {
+       "color": "#70655d",
+       "share": 0.17
+      },
+      {
+       "color": "#fffcf8",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#302924",
+      "hsl": {
+       "h": 25,
+       "s": 0.14,
+       "l": 0.16
+      },
+      "fg": "#fffcf8"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 11,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Đến nội dung",
+      "Gói thành viên",
+      "Khám phá Flamee"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 1,
+     "shadowSamples": [],
+     "gradients": 10,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.absolute.inset-0 → radial-gradient(circle at 20% 15%, color(srgb 1 0.882353 0.72549 / 0.157059), rgba(0, 0, 0, 0) 70%)",
+      "div.absolute.inset-0 → radial-gradient(circle at 80% 10%, color(srgb 1 0.882353 0.72549 / 0.122157), rgba(0, 0, 0, 0) 75%)",
+      "div.pointer-events-none.absolute → linear-gradient(color(srgb 1 0.882353 0.72549 / 0.244314) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.pointer-events-none.absolute → linear-gradient(color(srgb 1 0.882353 0.72549 / 0.244314) 0%, rgba(0, 0, 0, 0) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.footer-bottom 350px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 10,
+     "boxRadius": 24,
+     "squareMedia": 3,
+     "roundedMedia": 1,
+     "mediaRadius": 24,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.33
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 60,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "be vietnam pro"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6725,
+    "margins": {
+     "left": 20,
+     "right": 25
+    },
+    "sections": [
+     {
+      "sel": "div.pointer-events-none.absolute",
+      "tag": "div",
+      "top": 0,
+      "height": 1013,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 76,
+      "height": 648,
+      "words": 22,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Một bên bạn.",
+       "size": 56,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 71,
+      "textLeft": 20,
+      "textRight": 71,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.section-heading",
+      "tag": "div",
+      "top": 788,
+      "height": 193,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ngày nhỏ.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 38,
+      "textLeft": 20,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.feature-grid",
+      "tag": "div",
+      "top": 1009,
+      "height": 1359,
+      "words": 92,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Lưu lại chuyện hai mình.",
+       "size": 24,
+       "tag": "h3"
+      },
+      "left": 0,
+      "right": 44,
+      "textLeft": 43,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.mood-strip.section-space",
+      "tag": "section",
+      "top": 2431,
+      "height": 415,
+      "words": 24,
+      "media": 0,
+      "middle": 2146,
+      "heading": {
+       "text": "Ngày nào cũng có nhau.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#ket-noi.connection-section.shell",
+      "tag": "section",
+      "top": 2846,
+      "height": 1028,
+      "words": 94,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Một lời mời.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 41,
+      "textLeft": 20,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.section-heading.membership-heading",
+      "tag": "div",
+      "top": 3938,
+      "height": 160,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Gói thành viên",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 38,
+      "textLeft": 20,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.membership-grid",
+      "tag": "div",
+      "top": 4234,
+      "height": 1035,
+      "words": 79,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Cơ bản",
+       "size": 24,
+       "tag": "h3"
+      },
+      "left": 45,
+      "right": 45,
+      "textLeft": 45,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cau-hoi.faq-section.shell",
+      "tag": "section",
+      "top": 5333,
+      "height": 730,
+      "words": 135,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bạn hỏi, Flamee trả lời.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 25,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.closing.shell",
+      "tag": "section",
+      "top": 6063,
+      "height": 404,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Câu chuyện còn dài.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 41,
+      "right": 25,
+      "textLeft": 41,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer.shell",
+      "tag": "footer",
+      "top": 6467,
+      "height": 258,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 47,
+      "textLeft": 20,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Một bên bạn. Một bên mình.",
+      "size": 56,
+      "top": 108,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 41,
+      "n": 13
+     },
+     {
+      "x": 20,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "2 eyebrow/kicker label(s) above headings: \"Bắt đầu từ những điều nhỏ.\" above \"0đ\"; \"Thêm không gian cho chuyện hai mình.\" above \"49.000đ\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "9 gradient fill(s): div.absolute.inset-0 → radial-gradient(circle at 20% 15%, color(srgb 1 0.882353 0.72549 / 0.157059), rgba(0, 0, 0, 0) 70%) | div.absolute.inset-0 → radial-gradient(circle at 80% 10%, color(srgb 1 0.882353 0.72549 / 0.122157), rgba(0, 0, 0, 0) 75%) | div.pointer-events-none.absolute → linear-gradient(color(srgb 1 0.882353 0.72549 / 0.244314) 0%, rgba(0, 0, 0, 0) 100%)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): div.footer-bottom 1200px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "7 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f2ede6, text #fffcf8).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 72px on the left, 120px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "WARN",
+   "id": "empty-middle",
+   "width": 1440,
+   "message": "1 section(s) have content at both edges and 1914px of nothing between: \"Ngày nào cũng có nhau.\"",
+   "fix": "Bring the two parts together on the grid, or put the picture or figure of the section in the middle. An empty middle third reads as a hole, the same as an empty half.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 390,
+   "message": "10 different font sizes (14, 16, 17, 20, 24, 30, 34, 36, 44, 56).",
+   "fix": "A page needs about five: display, heading, lead, body, small."
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 390,
+   "message": "Large text lies under another element at some scroll position: \"49.000đ\" (screen 6, 38% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\FPT\\ky7\\EXE\\project\\Flamee-landingpage\\.taste-skill\\journal-inspect\\desktop-fold.jpg",
+   "pages": [
+    "D:\\FPT\\ky7\\EXE\\project\\Flamee-landingpage\\.taste-skill\\journal-inspect\\desktop-page-01.jpg",
+    "D:\\FPT\\ky7\\EXE\\project\\Flamee-landingpage\\.taste-skill\\journal-inspect\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\FPT\\ky7\\EXE\\project\\Flamee-landingpage\\.taste-skill\\journal-inspect\\tablet-fold.jpg",
+   "pages": [
+    "D:\\FPT\\ky7\\EXE\\project\\Flamee-landingpage\\.taste-skill\\journal-inspect\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\FPT\\ky7\\EXE\\project\\Flamee-landingpage\\.taste-skill\\journal-inspect\\mobile-fold.jpg",
+   "pages": [
+    "D:\\FPT\\ky7\\EXE\\project\\Flamee-landingpage\\.taste-skill\\journal-inspect\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

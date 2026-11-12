@@ -1,0 +1,12 @@
+{
+  "generator": "Built-in image_gen edit",
+  "reference": "src/assets/autumn-afternoon.png",
+  "output": "src/assets/autumn-paper-maple-v2.png",
+  "prompt": "Edit this existing autumn background image, preserving its recognizable maple leaves, branches and warm autumn atmosphere. This is a full-bleed WEBSITE BACKGROUND ASSET, not a web page or greeting card. Critical: retain VISIBLE amber maple leaves and fine branches in the upper-right and upper-left corners, with their recognizable leaf silhouettes, not just faint shadow blobs. Keep roughly the same peripheral foliage scale and density as the reference. The user rejected a blank beige background that removed all these leaves. Improve the material to visibly read as clean cream FINE ART PAPER filling the entire frame: delicate but clearly discernible fine pressed fibers and soft micro-grain, warm ivory, clean and fresh, no dirty flecks or old parchment. The material must be visible at normal screen size instead of imperceptible. Paper is an infinite continuous substrate, NOT a sheet laid on another surface: NO visible paper edges, NO borders, NO curled corners, NO folds, NO ruled lines, NO stains. Soft honey afternoon illumination with subtle natural diagonal leaf shadows near the right and top corners. Retain upper-right cluster of actual visible ochre maple leaves with fine branching, similar to original, and a smaller softly focused cluster at upper-left. Do not turn whole frame orange. Reserve central and left-middle 65 percent for dark typography: bright clean ivory paper, visible fine paper material but no sharp leaf, dark branch or shadow behind text. Bottom quarter pale neutral cream for seamless webpage fade. The result should look recognizably like the original autumn garden light background, with the fine art paper material made clearer and the overall orange tint restrained. Wide landscape 16:9, photorealistic tactile stationery surface, premium natural lighting. No words, no logos, no objects except peripheral maple foliage, no UI.",
+  "integration": {
+    "webpQuality": 90,
+    "desktopOpacity": 1,
+    "mobileOpacity": 0.95,
+    "mobilePosition": "center top; dedicated portrait asset autumn-paper-maple-mobile-v2.png preserves peripheral leaves without covering text"
+  }
+}
